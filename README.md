@@ -12,7 +12,7 @@ Requirements:
   - javafx-graphics.jar
 
 compile kotlin  
-*jika menggunakan jdk/jre pastikan set env JAVA_HOME ke path/to/jdk atau jre*
+**jika menggunakan jdk/jre pastikan set env JAVA_HOME ke path/to/jdk atau jre**
 `kotlinc -include-runtime -d guess.jar guess.kt`
 
 compile kotlin jika jdk tidak bundle dengan javafx dan tidak menggunakan jre  
